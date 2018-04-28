@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+commander@^2.15.1:
+  version "2.15.1"
+  resolved "http://registry.npm.taobao.org/commander/download/commander-2.15.1.tgz#df46e867d0fc2aec66a34662b406a9ccafff5b0f"
+
 config@^1.30.0:
   version "1.30.0"
   resolved "http://registry.npm.taobao.org/config/download/config-1.30.0.tgz#1d60a9f35348a13c175798d384e81a5a16c3ba6e"
