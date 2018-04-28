@@ -1,0 +1,15 @@
+{
+  "name": "gen-react-comp",
+  "version": "0.0.1",
+  "description": "generate react component or other.",
+  "main": "index.js",
+  "repository": "git@github.com:zhangfenglin/react-comp-generator.git",
+  "author": "zhangfenglin",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^1.30.0",
+    "ejs": "^2.5.9",
+    "jm-mkdirs": "^0.0.1",
+    "lodash": "^4.17.10"
+  }
+}
