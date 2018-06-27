@@ -1,0 +1,1 @@
+node node_modules/module-generate/index.js $1 $2
