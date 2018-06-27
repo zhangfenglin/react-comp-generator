@@ -1,11 +1,12 @@
 {
-  "name": "gen-react-comp",
+  "name": "module-generate",
   "version": "0.0.1",
   "description": "generate react component or other.",
   "main": "index.js",
   "repository": "git@github.com:zhangfenglin/react-comp-generator.git",
   "author": "zhangfenglin",
   "license": "MIT",
+  "bin": "index.js",
   "dependencies": {
     "commander": "^2.15.1",
     "config": "^1.30.0",
